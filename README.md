@@ -5,6 +5,6 @@
 
 ⚡ I’m a technology and innovation enthusiast.
 
-😄 I’m looking to collaborate on back-end projects using Java or NodeJS.
+😄 I’m looking to collaborate on back-end projects using Java or Node.js.
 
 💬 I love to learn new things, feel free to contact me so we can share some ideas: fernandamullerb@gmail.com
