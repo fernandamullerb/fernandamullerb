@@ -7,4 +7,4 @@
 
 😄 I’m looking to collaborate on back-end projects using Java or Node.js.
 
-💬 I love to learn new things, feel free to contact me so we can share some ideas: fernandamullerb@gmail.com
+💬 I love to learn new things, feel free to connect with me so we can share some ideas: https://www.linkedin.com/in/fernandamullerb
