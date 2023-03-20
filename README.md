@@ -1,4 +1,4 @@
-### Hello Word, I'm Fernanda  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+### Hello World, I'm Fernanda  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 💻 I'm a Software Engineer in Brazil.
